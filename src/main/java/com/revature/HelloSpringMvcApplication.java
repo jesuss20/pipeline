@@ -1,13 +1,13 @@
-package com.blit;
+package com.revature;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloSpringWebApplication {
+public class HelloSpringMvcApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloSpringWebApplication.class, args);
+		SpringApplication.run(HelloSpringMvcApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.blit;
+package com.revature;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloSpringWebApplicationTests {
+class HelloSpringMvcApplicationTests {
 
 	@Test
 	void contextLoads() {
